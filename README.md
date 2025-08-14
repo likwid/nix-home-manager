@@ -1,4 +1,4 @@
-# README
+# nix & home-manager
 This guide demonstrates how to get nix installed and using home-manager to manage basic programs & packages. It is intentionally simple.
 
 ## Install nix
